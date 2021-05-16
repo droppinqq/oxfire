@@ -1,6 +1,6 @@
 ![logo](src/main/resources/logo.png)
 
-# Wurst+3
+# Oxfire(w+3 skid)
 
 [Discord](https://discord.com/invite/hvnZePKQHx) | [Donate](https://paypal.me/trvsf) | [Download](https://github.com/TrvsF/wurst-plus-three/releases/latest)
 
